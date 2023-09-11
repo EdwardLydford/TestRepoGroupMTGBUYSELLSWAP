@@ -9,6 +9,7 @@ namespace gitText2
            
             Console.WriteLine("I am here in the walls");
             Console.WriteLine("Im Cyprus and i am not in the walls");
+            Console.WriteLine("Im harry and im cool");
         }
     }
 }
